@@ -4,7 +4,7 @@ A compatibility layer for ed hook extensions of various Common Lisp implementati
 
 |---------+-------------------------------------------|
 | source  | git:https://github.com/yitzchak/trivial-ed-functions.git   |
-| commit  | {"messa  |
+| commit  | 21502e0  |
 | systems | trivial-ed-functions |
 |---------+-------------------------------------------|
 
