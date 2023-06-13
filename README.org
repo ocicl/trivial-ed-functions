@@ -1,0 +1,10 @@
+* trivial-ed-functions
+
+A compatibility layer for ed hook extensions of various Common Lisp implementations.
+
+|---------+-------------------------------------------|
+| source  | git:https://github.com/yitzchak/trivial-ed-functions.git   |
+| commit  | {"messa  |
+| systems | trivial-ed-functions |
+|---------+-------------------------------------------|
+
