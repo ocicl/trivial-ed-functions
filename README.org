@@ -8,4 +8,4 @@ A compatibility layer for ed hook extensions of various Common Lisp implementati
 | systems | trivial-ed-functions |
 |---------+-------------------------------------------|
 
- 
+  
